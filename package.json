@@ -28,7 +28,7 @@
         "url": "https://github.com/joshuayabut/node-stratum-pool.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/NickRHill/equihashverify.git",
+        "equihashverify-btcz": "git+https://github.com/brad1121/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
