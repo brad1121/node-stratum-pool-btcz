@@ -1,5 +1,5 @@
 {
-    "name": "stratum-pool",
+    "name": "stratum-pool-btcz",
     "version": "0.1.6",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
